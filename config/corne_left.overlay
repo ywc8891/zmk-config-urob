@@ -2,8 +2,8 @@
 
 &kscan0 {
   col-gpios
-    = <&gpio1     01 GPIO_ACTIVE_HIGH>
-    , <&gpio1     02 GPIO_ACTIVE_HIGH>
+    = <&gpio1     02 GPIO_ACTIVE_HIGH>
+    , <&gpio1     07 GPIO_ACTIVE_HIGH>
     , <&pro_micro 19 GPIO_ACTIVE_HIGH>
     , <&pro_micro 18 GPIO_ACTIVE_HIGH>
     , <&pro_micro 15 GPIO_ACTIVE_HIGH>
